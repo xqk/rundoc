@@ -1,0 +1,30 @@
+version: "3"
+services:
+  rundoc:
+    image: registry.cn-hangzhou.aliyuncs.com/rundoc-org/rundoc:v2.1
+    container_name: rundoc
+    privileged: false
+    restart: always
+    ports:
+      - 8181:8181
+    volumes:
+      - /var/www/rundoc/conf://rundoc/conf
+      - /var/www/rundoc/static://rundoc/static
+      - /var/www/rundoc/views://rundoc/views
+      - /var/www/rundoc/uploads://rundoc/uploads
+      - /var/www/rundoc/runtime://rundoc/runtime
+      - /var/www/rundoc/database://rundoc/database
+    environment:
+      - RUNDOC_RUN_MODE=prod
+      - RUNDOC_DB_ADAPTER=sqlite3
+      - RUNDOC_DB_DATABASE=./database/rundoc.db
+      - RUNDOC_CACHE=true
+      - RUNDOC_CACHE_PROVIDER=file
+      - RUNDOC_ENABLE_EXPORT=false
+      - RUNDOC_BASE_URL=
+      - RUNDOC_CDN_IMG_URL=
+      - RUNDOC_CDN_CSS_URL=
+      - RUNDOC_CDN_JS_URL=
+    dns:
+      - 223.5.5.5
+      - 223.6.6.6

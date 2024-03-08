@@ -1,0 +1,1 @@
+go build -v -ldflags "-linkmode external -extldflags '-static' -w" -o rundoc_windows_amd64.exe main.go
