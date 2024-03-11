@@ -127,7 +127,7 @@ docker run -it --name=rundoc --restart=always -v "${MINDOC}/conf":"/rundoc/conf"
 
 ##### 举个栗子-更多环境变量示例(镜像已过期，仅供参考，请以当前镜像为准)
 ```bash
-docker run -p 8181:8181 --name rundoc -e DB_ADAPTER=mysql -e MYSQL_PORT_3306_TCP_ADDR=10.xxx.xxx.xxx -e MYSQL_PORT_3306_TCP_PORT=3306 -e MYSQL_INSTANCE_NAME=rundoc -e MYSQL_USERNAME=root -e MYSQL_PASSWORD=123456 -e httpport=8181 -d daocloud.io/lifei6671/rundoc:latest
+docker run -p 8181:8181 --name rundoc -e DB_ADAPTER=mysql -e MYSQL_PORT_3306_TCP_ADDR=10.xxx.xxx.xxx -e MYSQL_PORT_3306_TCP_PORT=3306 -e MYSQL_INSTANCE_NAME=rundoc -e MYSQL_USERNAME=root -e MYSQL_PASSWORD=123456 -e httpport=8181 -d daocloud.io/xqk/rundoc:latest
 ```
 
 #### dockerfile内容参考
@@ -169,39 +169,39 @@ docker run -p 8181:8181 --name rundoc -e DB_ADAPTER=mysql -e MYSQL_PORT_3306_TCP
 
 **创建项目**
 
-![创建项目](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501204438.png)
+![创建项目](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501204438.png)
 
 **项目列表**
 
-![项目列表](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501203542.png)
+![项目列表](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501203542.png)
 
 **项目概述**
 
-![项目概述](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501203619.png)
+![项目概述](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501203619.png)
 
 **项目成员**
 
-![项目成员](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501203637.png)
+![项目成员](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501203637.png)
 
 **项目设置**
 
-![项目设置](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501203656.png)
+![项目设置](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501203656.png)
 
 **基于Editor.md开发的Markdown编辑器**
 
-![基于Editor.md开发的Markdown编辑器](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501203854.png)
+![基于Editor.md开发的Markdown编辑器](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501203854.png)
 
 **基于wangEditor开发的富文本编辑器**
 
-![基于wangEditor开发的富文本编辑器](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501204651.png)
+![基于wangEditor开发的富文本编辑器](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501204651.png)
 
 **项目预览**
 
-![项目预览](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501204609.png)
+![项目预览](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501204609.png)
 
 **超级管理员后台**
 
-![超级管理员后台](https://raw.githubusercontent.com/lifei6671/rundoc/master/uploads/20170501204710.png)
+![超级管理员后台](https://raw.githubusercontent.com/xqk/rundoc/master/uploads/20170501204710.png)
 
 
 # 使用的技术(TODO: 最新技术栈整理中，使用的第三方库升级中)
