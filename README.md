@@ -6,6 +6,9 @@ RunDoc 是一款针对IT团队开发的简单好用的文档管理系统。
 
 可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。
 
+##### Fork
+Fork from [mindoc](https://github.com/mindoc-org/mindoc)
+
 ##### 演示站点&文档:
 - https://www.icl.site/wiki/docs/rundoc/
 
@@ -241,9 +244,9 @@ docker run -p 8181:8181 --name rundoc -e DB_ADAPTER=mysql -e MYSQL_PORT_3306_TCP
 
 如果您还不熟悉GitHub的Fork and Pull开发模式，您可以阅读GitHub的文档（https://help.github.com/articles/using-pull-requests） 获得更多的信息。
 
-# 关于作者[lifei6671](https://github.com/lifei6671)
+# 关于作者[xqk](https://github.com/xqk)
 
-一个不纯粹的PHPer，一个不自由的 gopher 。
+一个不自由的 gopher 。
 
 
 # 部署补充
