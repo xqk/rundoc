@@ -4,7 +4,7 @@
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown")
 - [Markdown Basics](https://help.github.com/articles/markdown-basics/ "Markdown Basics")
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/ "GitHub Flavored Markdown")
-- [Markdown 语法说明（简体中文）](https://www.iminho.me/wiki/docs/rundoc/markdown-basic.md "Markdown 语法说明（简体中文）")
+- [Markdown 语法说明（简体中文）](https://www.icl.site/wiki/docs/rundoc/markdown-basic.md "Markdown 语法说明（简体中文）")
 - [Markdown 語法說明（繁體中文）](http://markdown.tw/ "Markdown 語法說明（繁體中文）")
 
 ##### 键盘快捷键 (Keyboard shortcuts)
@@ -66,15 +66,15 @@
 
 ##### 流程图参考 (Flowchart reference)
 
-[https://www.iminho.me/wiki/docs/rundoc/flowchart.md](https://www.iminho.me/wiki/docs/rundoc/flowchart.md)
+[https://www.icl.site/wiki/docs/rundoc/flowchart.md](https://www.icl.site/wiki/docs/rundoc/flowchart.md)
 
 ##### 时序图参考 (SequenceDiagram reference)
 
-[https://www.iminho.me/wiki/docs/rundoc/sequence.md](https://www.iminho.me/wiki/docs/rundoc/sequence.md)
+[https://www.icl.site/wiki/docs/rundoc/sequence.md](https://www.icl.site/wiki/docs/rundoc/sequence.md)
 
 #### 基于 mermaid 的甘特图、时序图以及流程图
 
-<https://www.iminho.me/wiki/docs/rundoc/mermaid.md>
+<https://www.icl.site/wiki/docs/rundoc/mermaid.md>
 
 ##### TeX/LaTeX reference
 

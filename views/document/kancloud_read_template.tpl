@@ -66,7 +66,7 @@
             </div>
             <div class="m-copyright">
                 <p>
-                    本文档使用 <a href="https://www.iminho.me" target="_blank">RunDoc</a> 发布
+                    本文档使用 <a href="https://www.icl.site" target="_blank">RunDoc</a> 发布
                 </p>
             </div>
         </div>
@@ -139,7 +139,7 @@
                             <li>文档搜索</li>
                         </ol>
                         <h2 id="h2-u4f5cu8005"><a name="作者" class="reference-link"></a><span class="header-link octicon octicon-link"></span>作者</h2>
-                        <p>一个纯粹的PHPer。<a href="http://www.iminho.me">个人网站</a></p>
+                        <p>一个纯粹的PHPer。<a href="http://www.icl.site">个人网站</a></p>
 
                     </div>
                 </div>

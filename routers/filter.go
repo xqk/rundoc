@@ -41,7 +41,7 @@ func init() {
 
 	var FinishRouter = func(ctx *context.Context) {
 		ctx.ResponseWriter.Header().Add("RunDoc-Version", conf.VERSION)
-		ctx.ResponseWriter.Header().Add("RunDoc-Site", "https://www.iminho.me")
+		ctx.ResponseWriter.Header().Add("RunDoc-Site", "https://www.icl.site")
 		ctx.ResponseWriter.Header().Add("X-XSS-Protection", "1; mode=block")
 	}
 

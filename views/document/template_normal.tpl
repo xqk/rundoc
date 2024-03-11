@@ -94,7 +94,7 @@ go build -ldflags "-H=windowsgui"
 #是否启用邮件
 enable_mail=true
 #smtp服务器的账号
-smtp_user_name=admin@iminho.me
+smtp_user_name=admin@icl.site
 #smtp服务器的地址
 smtp_host=smtp.ym.163.com
 #密码
@@ -102,7 +102,7 @@ smtp_password=1q2w3e__ABC
 #端口号
 smtp_port=25
 #邮件发送人的地址
-form_user_name=admin@iminho.me
+form_user_name=admin@icl.site
 #邮件有效期30分钟
 mail_expired=30
 ```

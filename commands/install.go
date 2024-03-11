@@ -118,7 +118,7 @@ func initialization() {
 		member.Password = "123456"
 		member.AuthMethod = "local"
 		member.Role = conf.MemberSuperRole
-		member.Email = "admin@iminho.me"
+		member.Email = "admin@icl.site"
 
 		if err := member.Add(); err != nil {
 			panic("Member.Add => " + err.Error())

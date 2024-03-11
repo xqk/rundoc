@@ -94,11 +94,11 @@ The password retrieval function depends on the mail service. Therefore, you need
 
 #mail service configuration
 enable_mail=true
-smtp_user_name=admin@iminho.me
+smtp_user_name=admin@icl.site
 smtp_host=smtp.ym.163.com
 smtp_password=1q2w3e__ABC
 smtp_port=25
-form_user_name=admin@iminho.me
+form_user_name=admin@icl.site
 mail_expired=30
 ```
 

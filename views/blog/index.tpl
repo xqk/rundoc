@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="renderer" content="webkit">
     <meta name="author" content="Minho" />
-    <meta name="site" content="https://www.iminho.me" />
+    <meta name="site" content="https://www.icl.site" />
     <meta name="keywords" content="{{.Model.BlogTitle}}">
     <meta name="description" content="{{.Model.BlogTitle}}-{{.Description}}">
     <title>{{.Model.BlogTitle}} - Powered by RunDoc</title>

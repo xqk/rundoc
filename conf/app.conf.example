@@ -92,7 +92,7 @@ enable_mail="${RUNDOC_ENABLE_MAIL||false}"
 #每小时限制指定邮箱邮件发送次数
 mail_number="${RUNDOC_MAIL_NUMBER||5}"
 #smtp服务用户名
-smtp_user_name="${RUNDOC_SMTP_USER_NAME||admin@iminho.me}"
+smtp_user_name="${RUNDOC_SMTP_USER_NAME||admin@icl.site}"
 #smtp服务器地址
 smtp_host="${RUNDOC_SMTP_HOST||smtp.163.com}""
 #smtp密码
@@ -100,7 +100,7 @@ smtp_password="${RUNDOC_SMTP_PASSWORD}"
 #端口号
 smtp_port="${RUNDOC_SMTP_PORT||25}""
 #发送邮件的显示名称
-form_user_name="${RUNDOC_FORM_USERNAME||admin@iminho.me}"
+form_user_name="${RUNDOC_FORM_USERNAME||admin@icl.site}"
 #邮件有效期30分钟
 mail_expired="${RUNDOC_EXPIRED||30}"
 #加密类型NONE 无认证、SSL 加密、LOGIN 普通用户登录

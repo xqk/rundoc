@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="renderer" content="webkit">
     <meta name="author" content="Minho" />
-    <meta name="site" content="https://www.iminho.me" />
+    <meta name="site" content="https://www.icl.site" />
     <meta name="keywords" content="RunDoc,文档在线管理系统,WIKI,wiki,wiki在线,文档在线管理,接口文档在线管理,接口文档管理">
     <meta name="description" content="RunDoc文档在线管理系统 {{.site_description}}">
     <!-- Bootstrap -->
