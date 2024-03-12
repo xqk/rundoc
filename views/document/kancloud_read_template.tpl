@@ -66,7 +66,7 @@
             </div>
             <div class="m-copyright">
                 <p>
-                    本文档使用 <a href="https://www.icl.site" target="_blank">RunDoc</a> 发布
+                    本文档使用 <a href="https://github.com/xqk/rundoc" target="_blank">RunDoc</a> 发布
                 </p>
             </div>
         </div>
