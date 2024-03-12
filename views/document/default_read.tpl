@@ -166,7 +166,7 @@
             <div class="m-copyright">
                 <p>
                     <div id="view_count">{{i18n .Lang "doc.view_count"}}：{{.ViewCount}}</div>
-                    {{i18n $.Lang "doc.doc_publish_by"}} <a href="https://www.icl.site" target="_blank">RunDoc</a> {{i18n $.Lang "doc.doc_publish"}}
+                    {{i18n $.Lang "doc.doc_publish_by"}} <a href="https://github.com/xqk/rundoc" target="_blank">RunDoc</a> {{i18n $.Lang "doc.doc_publish"}}
                 </p>
             </div>
         </div>
